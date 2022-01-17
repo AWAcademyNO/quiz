@@ -27,3 +27,17 @@ D) git commit
   </summary>
    C: git clone
 </details>
+
+#### Spørsmål 3
+
+<details> 
+  <summary>
+    Hvilken kommando brukes for å sjekke loggen?  
+    
+A) git logging  
+B) git loggen  
+C) git log  
+D) git logg 
+  </summary>
+   C: git log
+</details>

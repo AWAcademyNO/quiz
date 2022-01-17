@@ -34,10 +34,10 @@ D) git commit
   <summary>
     Hvilken kommando brukes for å sammenligne branches?  
     
-A) git push 
-B) git diff  
-C) git fork 
-D) git log 
+A) git push  <br />
+B) git diff  <br />
+C) git fork  <br />
+D) git log  <br />
   </summary>
    B) git diff
 </details>

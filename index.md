@@ -27,3 +27,17 @@ D) git commit
   </summary>
    C: git clone
 </details>
+
+#### Spørsmål 3
+
+<details> 
+  <summary>
+    Hvilken kommando brukes for å initialisere et repository?  
+    
+A) git init  
+B) git start  
+C) git first  
+D) git new  
+  </summary>
+   A: git init
+</details>

@@ -27,3 +27,17 @@ D) git commit
   </summary>
    C: git clone
 </details>
+
+#### Spørsmål 3
+
+<details> 
+  <summary>
+    Hvilken kommando brukes for å sammenligne branches?  
+    
+A) git push  <br />
+B) git diff  <br />
+C) git fork  <br />
+D) git log  <br />
+  </summary>
+   B) git diff
+</details>

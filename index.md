@@ -32,7 +32,7 @@ D) git commit
 
 <details> 
   <summary>
-    Hvilken kommando brukes for å initialisere et repository?  
+   Hvilken kommando brukes for å initialisere et repository?  
     
 A) git init  
 B) git start  
@@ -45,7 +45,6 @@ D) git new
 
 #### Spørsmål 4
 
-
 <details> 
   <summary>
        Hvilken kommando brukes for å sammenligne branches?  
@@ -57,3 +56,16 @@ D) git log  <br />
   </summary>
      B) git diff
 </details>
+
+#### Spørsmål 5
+<details> 
+  <summary>
+    Hvilken kommando brukes for å sjekke loggen?  
+    
+A) git logging  
+B) git loggen  
+C) git log  
+D) git logg 
+  </summary>
+   C: git log
+  </details>
